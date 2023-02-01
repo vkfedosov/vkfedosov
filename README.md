@@ -15,9 +15,9 @@
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=vkfedosov&hide=contribs&show_icons=true&theme=dark">
-    <img  align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=vkfedosov&hide=contribs&show_icons=true&theme=dark" />
+    <img  align="left" height="164" src="https://github-readme-stats.vercel.app/api?username=vkfedosov&hide=contribs&show_icons=true&theme=dark" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vadikam100500&layout=compact&theme=dark">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkfedosov&layout=compact&theme=dark" />
+    <img align="center" height="164" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkfedosov&layout=compact&theme=dark" />
   </a>
 </div>
