@@ -8,10 +8,12 @@
 [![Docker](https://img.shields.io/badge/-Docker-0DB7ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Nginx](https://img.shields.io/badge/-Nginx-009539?style=flat&logo=nginx)](https://nginx.org/ru/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-dd4814?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Gunicorn](https://img.shields.io/badge/-Gunicorn-4b9b45?style=flat&logo=gunicorn&logoColor=white)](https://ubuntu.com/)
 [![Unittest](https://img.shields.io/badge/-Unittest-grey?style=flat&logo=Unittest)](https://docs.python.org/3/library/unittest.html)
 [![HTML5](https://img.shields.io/badge/-HTML5-e85324?style=flat&logo=html5&logoColor=ffffff)](http://htmlbook.ru/html5)
 [![CSS3](https://img.shields.io/badge/-CSS3-1c74bc?style=flat&logo=css3)](http://htmlbook.ru/css3)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7611f6?style=flat&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
+
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=vkfedosov&hide=contribs&show_icons=true&theme=dark">
