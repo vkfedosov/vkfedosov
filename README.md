@@ -9,7 +9,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-151515?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Nginx](https://img.shields.io/badge/-Nginx-151515?style=flat&logo=nginx&logoColor=009539)](https://nginx.org/ru/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-151515?style=flat&logo=ubuntu&logoColor=dd4814)](https://ubuntu.com/)
-[![Gunicorn](https://img.shields.io/badge/-Gunicorn-151515?style=flat&logo=gunicorn&logoColor=4b9b45)](https://ubuntu.com/)
+[![Gunicorn](https://img.shields.io/badge/-Gunicorn-151515?style=flat&logo=gunicorn&logoColor=4b9b45)](https://gunicorn.org/)
 [![Unittest](https://img.shields.io/badge/-Unittest-151515?style=flat&logo=Unittest)](https://docs.python.org/3/library/unittest.html)
 [![HTML5](https://img.shields.io/badge/-HTML5-151515?style=flat&logo=html5&logoColor=e85324)](http://htmlbook.ru/html5)
 [![CSS3](https://img.shields.io/badge/-CSS3-151515?style=flat&logo=css3&logoColor=1c74bc)](http://htmlbook.ru/css3)
