@@ -17,7 +17,7 @@
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=vkfedosov&hide=contribs&show_icons=true&theme=transparent">
-    <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=vkfedosov&hide=contribs&show_icons=true&title_color=4c8edd&icon_color=4c8edd&text_color=5d6671&bg_color=ffffff00&border_color=3d454e"/>
+    <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=vkfedosov&hide=contribs&show_icons=true&title_color=4c8edd&icon_color=4c8edd&text_color=5d6671&bg_color=ffffff00&border_color=3d454e0"/>
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vkfedosov&layout=compact&theme=transparent">
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkfedosov&custom_title=Languages&langs_count=6&layout=compact&hide=contribs&show_icons=true&theme=transparent"/>
