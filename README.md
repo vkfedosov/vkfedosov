@@ -17,9 +17,9 @@
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=vkfedosov&hide=contribs&show_icons=true&theme=dark">
-    <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=vkfedosov&hide=contribs&show_icons=true&icon_color=ffffff&bg_color=24272d&border_color=494c52&theme=dark"/>
+    <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=vkfedosov&hide=contribs&show_icons=true&icon_color=ffffff&bg_color=ffffff00&border_color=494c52&theme=dark"/>
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vkfedosov&layout=compact&theme=dark">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkfedosov&custom_title=Languages&langs_count=6&layout=compact&hide=contribs&show_icons=true&icon_color=ffffff&bg_color=24272d&border_color=494c52&theme=dark"/>
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkfedosov&custom_title=Languages&langs_count=6&layout=compact&hide=contribs&show_icons=true&icon_color=ffffff&bg_color=ffffff00&border_color=494c52&theme=dark"/>
   </a>
 </div>
